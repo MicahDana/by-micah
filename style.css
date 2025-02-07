@@ -1,0 +1,40 @@
+body {
+    font-family: Trebuchet MS, Verdana, Tahoma, sans-serif;
+    line-height: 1.6;
+    background-color: #bfd4ff;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #0e11a6;
+    text-shadow: 2px 2px 8px gray;
+    font-family: "EB Garamond", Georgia, "DM Serif", serif;
+}
+
+h2 {
+    color: #0e11a6;
+    text-shadow: 2px 2px 8px gray;
+    font-family: "EB Garamond", Georgia, "DM Serif", serif;
+    text-align: left;
+}
+
+p {
+    text-indent: 50px;
+    text-align: justify;
+    background-color: #ede8f5;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.highlight {
+    font-weight: bold;
+    color: #86b6f6;
+}
+
+.divider {
+    height: 3px;
+    background-color: #86b6f6;
+    margin: 20px 0;
+}
